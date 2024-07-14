@@ -3,7 +3,7 @@
 ### Description:
 This project implements a web-based SQL query interface using Flask, integrating with OpenAI's language model and LangChain for handling SQL queries and database interactions. Users can enter their database credentials and SQL queries to receive responses formatted in a striking and emphatic manner.
 
-https://github.com/user-attachments/assets/bd22e373-758c-4beb-9772-d12681d0a171
+https://github.com/user-attachments/assets/e6db8311-03f7-4eb3-a5cc-727495c0095f
 
 ### Technologies Used:
 - **Flask**: Web framework for Python.
